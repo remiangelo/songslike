@@ -7,11 +7,115 @@
 </p>
 
 <h1 align="center">
-  create-t4-app
+  SongsLike
 </h1>
 
 <p align="center">
-  Interactive CLI to start a full-stack, typesafe, universal Expo & Next.js app on Cloudflare's edge platform.
+  Find similar songs using AI and social media trends
+</p>
+
+<p align="center">
+  Discover music that matches your vibe from various platforms like Spotify, TikTok, and YouTube
+</p>
+
+## 🎵 About SongsLike
+
+SongsLike is a modern web application that helps you discover music similar to your favorite songs. Built with the T4 Stack, it features a sleek dark-mode interface with animated components and a responsive design.
+
+### 🔍 How It Works
+
+1. Select a song from Spotify or Apple Music
+2. Our AI scans social media platforms like TikTok to find songs with similar vibes
+3. Review recommendations organized by platform
+4. Discover new music that matches your taste
+
+### 🚀 Key Features
+
+- **AI-Powered Recommendations**: Advanced algorithms analyze music patterns to find songs with similar vibes
+- **Social Media Integration**: Discover trending songs from TikTok that match your music taste
+- **Streaming Platform Support**: Search songs from Spotify and Apple Music
+- **Modern UI**: Beautiful dark-mode interface with glass morphism design and smooth animations
+- **Responsive Design**: Works perfectly on desktop and mobile devices
+
+## 🧰 Tech Stack
+
+This project is built with the T4 Stack, a powerful combination of technologies for building modern web applications:
+
+- 🎨 **UI**: Tailwind CSS, Framer Motion, React Icons
+- 🔮 **Frontend**: Next.js, React
+- 📡 **API Integration**: Spotify Web API
+- 🧠 **State Management**: React Hooks
+- 🎭 **Animations**: CSS animations, Framer Motion transitions
+
+## 🏗️ Project Structure
+
+```
+songslike/
+├── apps/
+│   └── next/              # Next.js web app
+│       ├── components/    # React components
+│       │   ├── layout/    # Layout components
+│       │   ├── music/     # Music-related components
+│       │   └── ui/        # UI components
+│       ├── pages/         # Next.js pages
+│       ├── services/      # API services
+│       └── styles/        # CSS styles
+└── packages/
+    ├── api/               # Backend API
+    └── ui/                # Shared UI components
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 16 or higher
+- Bun package manager
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/songslike.git
+   cd songslike
+   ```
+
+2. Install dependencies:
+   ```bash
+   bun install
+   ```
+
+3. Run the development server:
+   ```bash
+   bun dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+## 📸 Screenshots
+
+*Coming soon*
+
+## 🛠️ Development
+
+This project uses:
+- Tailwind CSS for styling
+- Framer Motion for animations
+- React Icons for icons
+- Next.js for server-side rendering
+
+## 👥 Contributors
+
+- Your Name - Project Creator
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+<p align="center">
+  Built with the <a href="https://t4stack.com">T4 Stack</a>
 </p>
 
 <p align="center">
@@ -259,5 +363,6 @@ The T4 App is not affiliated with or endorsed by [EquipmentShare](https://www.eq
 ## ⚖️ License
 
 **Create T4 App** is licensed under the [MIT License](https://github.com/timothymiller/t4-app/blob/master/LICENSE).
-#   s o n g s l i k e  
+#   s o n g s l i k e 
+ 
  
