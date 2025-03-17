@@ -1,26 +1,29 @@
 <p align="center">
-  <a href="https://t4stack.com" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <img src="https://github.com/timothymiller/t4-app/blob/master/apps/next/public/t4-logo-large.png?raw=true" width="200" alt="Logo of Create T4 App">
-    </picture>
-  </a>
+  <picture>
+    <img src="https://raw.githubusercontent.com/yourusername/songslike/main/apps/next/public/songslike-logo.png" width="200" alt="SongsLike Logo">
+  </picture>
 </p>
 
-<h1 align="center">
-  SongsLike
-</h1>
+<div align="center">
+  <h1>🎵 SongsLike</h1>
+  <p>Find similar songs using AI and social media trends</p>
+  <p>Discover music that matches your vibe from Spotify, TikTok, and YouTube</p>
+</div>
 
-<p align="center">
-  Find similar songs using AI and social media trends
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+</div>
 
-<p align="center">
-  Discover music that matches your vibe from various platforms like Spotify, TikTok, and YouTube
-</p>
+<br>
 
-## 🎵 About SongsLike
+## 🎧 About SongsLike
 
 SongsLike is a modern web application that helps you discover music similar to your favorite songs. Built with the T4 Stack, it features a sleek dark-mode interface with animated components and a responsive design.
+
+<br>
 
 ### 🔍 How It Works
 
@@ -29,13 +32,17 @@ SongsLike is a modern web application that helps you discover music similar to y
 3. Review recommendations organized by platform
 4. Discover new music that matches your taste
 
-### 🚀 Key Features
+<br>
+
+### ✨ Key Features
 
 - **AI-Powered Recommendations**: Advanced algorithms analyze music patterns to find songs with similar vibes
 - **Social Media Integration**: Discover trending songs from TikTok that match your music taste
 - **Streaming Platform Support**: Search songs from Spotify and Apple Music
 - **Modern UI**: Beautiful dark-mode interface with glass morphism design and smooth animations
 - **Responsive Design**: Works perfectly on desktop and mobile devices
+
+<br>
 
 ## 🧰 Tech Stack
 
@@ -46,6 +53,8 @@ This project is built with the T4 Stack, a powerful combination of technologies 
 - 📡 **API Integration**: Spotify Web API
 - 🧠 **State Management**: React Hooks
 - 🎭 **Animations**: CSS animations, Framer Motion transitions
+
+<br>
 
 ## 🏗️ Project Structure
 
@@ -65,12 +74,16 @@ songslike/
     └── ui/                # Shared UI components
 ```
 
+<br>
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js 16 or higher
 - Bun package manager
+
+<br>
 
 ### Installation
 
@@ -92,9 +105,13 @@ songslike/
 
 4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
+<br>
+
 ## 📸 Screenshots
 
 *Coming soon*
+
+<br>
 
 ## 🛠️ Development
 
@@ -104,33 +121,53 @@ This project uses:
 - React Icons for icons
 - Next.js for server-side rendering
 
+<br>
+
 ## 👥 Contributors
 
 - Your Name - Project Creator
+
+<br>
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+<br>
+
 ---
+
+<p align="center">
+  <strong>In the meanwhile, create a text icon for your README:</strong>
+</p>
+
+<div align="center">
+  <pre>
+  _____                      __    _ __        
+ / ___/__  ___  ___ _______ / /__ (_) /_____ __
+/ /__/ _ \/ _ \/ _ `/ __/ // / _ \/ / // / // /
+\___/\___/_//_/\_, /_/  \_, /_//_/_/\_,_/\_, / 
+              /___/    /___/            /___/  
+
+  DISCOVER MUSIC THAT MATCHES YOUR VIBE
+  </pre>
+</div>
+
+<br>
 
 <p align="center">
   Built with the <a href="https://t4stack.com">T4 Stack</a>
 </p>
 
 <p align="center">
-  Get started with the <a rel="noopener noreferrer" target="_blank" href="https://t4stack.com">T4 Stack</a> by running <code>bun create t4-app</code>
-</p>
-
-<p align="center">
-  <a href = "https://discord.gg/wj2GV7AvQd">
+  <a href="https://discord.gg/wj2GV7AvQd">
     <img src="https://img.shields.io/discord/1117289587472081016?color=%235865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Join the T4 discord community">
   </a>&nbsp;
-  <a href = "https://www.npmjs.com/package/create-t4-app">
-    <img src="https://img.shields.io/npm/dm/create-t4-app?logo=npm&style=for-the-badge&color=CC3534" alt="Weekly downloads for create-t4-app on npmjs.org">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   </a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7" alt="VSCode Extension Installs">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
 </p>
 
@@ -149,15 +186,9 @@ Ship it today and witness **6 second package install** times & **30 second backe
   <a href="https://pages.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white" alt="T4 is compatible with Cloudflare Pages">
   </a>&nbsp;
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="T4 uses Next.js">
-  </a>&nbsp;
   <a href="https://expo.dev/">
     <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="T4 uses Expo">
   </a>&nbsp;
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="T4 is written in TypeScript">
-  </a>
 </p>
 
 ### 📐 UI Kit
